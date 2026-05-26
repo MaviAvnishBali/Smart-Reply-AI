@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#1B5E20</color>
+    <string name="app_name">Smart Reply AI</string>
+    <string name="gcm_defaultSenderId" translatable="false">405778812722</string>
+    <string name="google_api_key" translatable="false">AIzaSyA7qyaKRd22yqTU77-WMDkXEvESn6Fv-u8</string>
+    <string name="google_app_id" translatable="false">1:405778812722:android:3bb0af2b859563946c512b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA7qyaKRd22yqTU77-WMDkXEvESn6Fv-u8</string>
+    <string name="google_storage_bucket" translatable="false">smart-reply-ai-7b22a.firebasestorage.app</string>
+    <string name="notification_listener_label">Smart Reply AI Notification Access</string>
+    <string name="overlay_channel_desc">Shows smart reply suggestions over other apps</string>
+    <string name="overlay_channel_name">Reply Suggestions</string>
+    <string name="overlay_notification_text">Tap to open Smart Reply AI</string>
+    <string name="overlay_notification_title">Smart Reply suggestions active</string>
+    <string name="project_id" translatable="false">smart-reply-ai-7b22a</string>
+    <style name="Theme.SmartReplyAI" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

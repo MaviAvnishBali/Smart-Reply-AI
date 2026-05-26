@@ -1,0 +1,5 @@
+-keep,allowobfuscation,allowshrinking class com.myai.smartreplyai.features.permissions.PermissionsViewModel
+-keep,allowobfuscation,allowshrinking class com.myai.smartreplyai.features.permissions.PermissionsViewModel
+-keep,allowobfuscation,allowshrinking class com.myai.smartreplyai.features.premium.PremiumViewModel
+-keep,allowobfuscation,allowshrinking class com.myai.smartreplyai.features.premium.PremiumViewModel
+-keep,allowobfuscation,allowshrinking class com.myai.smartreplyai.features.onboarding.OnboardingViewModel

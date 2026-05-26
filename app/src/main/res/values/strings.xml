@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Reply AI</string>
+    <string name="notification_listener_label">Smart Reply AI Notification Access</string>
+    <string name="overlay_channel_name">Reply Suggestions</string>
+    <string name="overlay_channel_desc">Shows smart reply suggestions over other apps</string>
+    <string name="overlay_notification_title">Smart Reply suggestions active</string>
+    <string name="overlay_notification_text">Tap to open Smart Reply AI</string>
+</resources>
