@@ -15,3 +15,127 @@ output/
 # Keystores
 *.jks
 *.keystore
+# Android generated compiled resources
+*.flat
+*.arsc
+*.arsc.flat
+*.java_res
+*.len
+*.tab
+
+# Resource processing
+*.pb
+*.bin
+
+# Dex / optimized files
+*.dex
+
+# Build intermediates
+/intermediates/
+/generated/
+/outputs/
+/tmp/
+/lint/
+
+/app/release/
+/app/debug/
+
+# Room schema exports (optional)
+schemas/
+
+# Proguard
+mapping/
+
+# JNI
+obj/
+
+# NDK
+.libs/
+
+# Packaging
+*.pack
+# Java / Kotlin compiled files
+*.class
+
+# Android optimized files
+*.odex
+*.vdex
+
+# JVM crash logs
+hs_err_pid*
+
+# Kotlin metadata
+*.kotlin_metadata
+
+# Bytecode / cache
+*.jar
+*.war
+*.ear
+# ART
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Kotlin
+.kotlin/
+
+# KSP / KAPT
+.ksp/
+kapt/
+
+# Compose
+compose_compiler/
+
+# Firebase
+google-services.json
+firebase_app_distribution/
+
+# Crashlytics
+com_crashlytics_export_strings.xml
+
+# Environment / secrets
+.env
+.env.*
+
+# Android Studio
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Gradle cache
+.gradle-cache/
+
+# Profiling
+*.hprof
+
+# Temporary files
+*.tmp
+*.temp
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Signing configs
+signing.properties
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Bundletool
+*.idsig
+
+# Play Console
+*.mapping.txt

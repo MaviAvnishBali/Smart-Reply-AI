@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.myai.smartreplyai.app-mergeDebugResources-79:/values-ky/values-ky.xml",
+            "outputFile": "com.myai.smartreplyai.app-mergeDebugResources-80:/values-ky/values-ky.xml",
             "map": [
                 {
                     "source": "/home/hp/.gradle/caches/8.11.1/transforms/95560e991d0851baa781bbd0ebe6b572/transformed/play-services-ads-23.6.0/res/values-ky/values.xml",

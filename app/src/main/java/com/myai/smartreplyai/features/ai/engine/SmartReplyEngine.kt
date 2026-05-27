@@ -1,5 +1,6 @@
 package com.myai.smartreplyai.features.ai.engine
 
+import android.util.Log
 import com.myai.smartreplyai.core.constants.AppConstants
 import com.myai.smartreplyai.data.local.dao.MessageDao
 import com.myai.smartreplyai.data.repository.AnalyticsRepositoryImpl
@@ -106,6 +107,7 @@ class SmartReplyEngine @Inject constructor(
             (suggestions + aiSuggestions).distinctBy { it.text }
                 .take(AppConstants.MAX_SUGGESTIONS)
         } catch (e: Exception) {
+            Log.e("AI_ERROR", "Gemini Error", e)
             suggestions.ifEmpty {
                 listOf(
                     SmartReplySuggestion(

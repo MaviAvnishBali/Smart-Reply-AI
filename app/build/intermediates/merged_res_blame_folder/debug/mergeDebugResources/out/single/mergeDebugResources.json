@@ -1,14 +1,142 @@
 [
     {
-        "merged": "com.myai.smartreplyai.app-debug-81:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.myai.smartreplyai.app-main-83:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.myai.smartreplyai.app-debug-81:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.myai.smartreplyai.app-main-83:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.myai.smartreplyai.app-debug-81:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.myai.smartreplyai.app-main-83:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.myai.smartreplyai.app-debug-82:/drawable_app_icon.png.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/drawable/app_icon.png"
+    },
+    {
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/drawable_app_ai_icon.png.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/drawable/app_ai_icon.png"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/drawable_app_icon_ai.png.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/drawable/app_icon_ai.png"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-debug-82:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/hp/.gradle/daemon/8.11.1/com.myai.smartreplyai.app-main-84:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.myai.smartreplyai.app-debug-82:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.myai.smartreplyai.app-main-84:/mipmap-xxhdpi/ic_launcher_round.webp"
     }
 ]

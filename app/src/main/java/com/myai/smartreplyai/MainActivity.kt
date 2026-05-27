@@ -24,6 +24,7 @@ import com.myai.smartreplyai.domain.repository.ConfigRepository
 import com.myai.smartreplyai.navigation.SmartReplyNavHost
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch
+import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import javax.inject.Inject
 
 @AndroidEntryPoint
@@ -38,6 +39,7 @@ class MainActivity : ComponentActivity() {
     private val mainViewModel: MainViewModel by viewModels()
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        installSplashScreen()
         super.onCreate(savedInstanceState)
         
         checkForUpdates()

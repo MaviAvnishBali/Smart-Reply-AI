@@ -112,7 +112,7 @@ fun HomeScreen(
                         Triple(Icons.Outlined.Description, "Templates", Routes.TEMPLATES),
                         Triple(Icons.Outlined.Analytics, "Analytics", Routes.ANALYTICS),
                         Triple(Icons.Outlined.Settings, "Settings", Routes.SETTINGS),
-                        Triple(Icons.Outlined.Star, "Premium", Routes.PREMIUM)
+//                        Triple(Icons.Outlined.Star, "Premium", Routes.PREMIUM)
                     )
                 ) { (icon, label, route) ->
                     SmartReplyCardRow(

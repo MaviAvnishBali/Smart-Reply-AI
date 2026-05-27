@@ -80,7 +80,6 @@ dependencies {
     implementation(libs.androidx.material3)
     implementation(libs.androidx.material.icons.extended)
     implementation("androidx.compose.foundation:foundation")
-    implementation(libs.firebase.config)
     debugImplementation(libs.androidx.ui.tooling)
 
     implementation(libs.androidx.navigation.compose)
@@ -109,4 +108,6 @@ dependencies {
     implementation(libs.firebase.config)
     implementation(libs.play.app.update)
     implementation(libs.play.app.update.ktx)
+    implementation(libs.androidx.core.splashscreen)
+//    implementation(libs.kyant0.backdrop)
 }
